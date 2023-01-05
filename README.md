@@ -1,5 +1,5 @@
 # Fetal_Health_Prediction
-n the Fetal Health Prediction project, I used the CatBoost model to predict the health of a fetal based on data from a Cardiotocogram exam.
+In the Fetal Health Prediction project, I used the CatBoost model to predict the health of a fetal based on data from a Cardiotocogram exam.
 
 CatBoost is a gradient boosting algorithm developed by Yandex that is designed to handle categorical data and missing values. It is a powerful tool for building machine learning models and has been shown to perform well on a variety of tasks.
 
